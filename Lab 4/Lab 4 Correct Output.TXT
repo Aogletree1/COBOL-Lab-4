@@ -1,0 +1,59 @@
+
+     XXX                   CLASS GRADES                08/17/2022               
+
+
+      COURSE             NAME             AVERAGE     GRADE                     
+
+        BY101     JOHANSON ALEX             87.5        B                       
+        BY101     CHARLES  JAMES            74.0        C                       
+
+                                     CLASS AVERAGE    80.7                      
+
+        BY102     KARSEN   KALEY            88.2        B                       
+        BY102     LARSON   MICAH            69.7        D                       
+
+                                     CLASS AVERAGE    78.9                      
+
+        CS201     ABBOTT   MARILYN          80.7        B                       
+        CS201     BACH     SUZANNE          89.5        B                       
+        CS201     CARLSON  THOMAS           76.7        C                       
+
+                                     CLASS AVERAGE    82.3                      
+
+        CB250     CHAVEZ   RITA             69.7        D                       
+
+                                     CLASS AVERAGE    69.7                      
+
+        CS250     DAVIDSON ROBERT           87.5        B                       
+        CS250     DEERING  STEWART          75.5        C                       
+        CS250     FRANCIS  DAVID             2.5        F                       
+
+                                     CLASS AVERAGE    55.1                      
+
+        CS370     GREGORY  PAUL             68.2        D                       
+        CS370     HENSON   MARY             66.0        D                       
+        CS370     HAMILTON ALEXANDRIA       68.5        D                       
+
+                                     CLASS AVERAGE    67.5                      
+
+        EH101     SMITH    ROSE            100.0        A                       
+        EH101     DAVIDSON ROBERT           95.0        A                       
+
+                                     CLASS AVERAGE    97.5                      
+
+        EH201     DANIELS  SARAG            76.7        C                       
+        EH201     CHANDLER SHAWN            69.7        D                       
+        EH201     GARRISON PAULA            75.7        C                       
+
+                                     CLASS AVERAGE    74.0                      
+
+        MS100     KAPLAN   DAVID            47.5        F                       
+        MS100     LETINSKY MAURICE          50.0        F                       
+
+                                     CLASS AVERAGE    48.7                      
+
+        MS300     PETERS   SHERYLIN         85.5        B                       
+        MS300     AMES     HARRISON         77.0        C                       
+        MS300     PARKER   TONY             60.0        D                       
+
+                                     CLASS AVERAGE    74.1                      
